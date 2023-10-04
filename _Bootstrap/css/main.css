@@ -1,0 +1,235 @@
+.gap{
+    position: absolute;
+    top: 10px;
+    left: 500px;
+}
+.gap1{
+    position: absolute;
+    top: 10px;
+    left: 700px;
+}
+.gap2{
+    position: absolute;
+    top: 10px;
+    left: 800px;
+}
+.gap3{
+    position: absolute;
+    top: 10px;
+    left: 900px;
+}
+.gap4{
+    position: absolute;
+    top: 10px;
+    left: 970px;
+}
+.gap5{
+    position: absolute;
+    top: 10px;
+    left: 1100px;
+}
+.gap6{
+    position: absolute;
+    top: 10px;
+    left: 1200px;
+}
+.gap7{
+    position: absolute;
+    top: 10px;
+    left: 1300px;
+}
+.gap8{
+    position: absolute;
+    top: 10px;
+    left: 1400px;
+}
+.gap9{
+    position: absolute;
+    top: 10px;
+    left: 1500px;
+}
+.cod{
+    position: absolute;
+    top: 10px;
+    left: 1758px;
+}
+.gap10{
+    position: absolute;
+    top: 15px;
+    left: 1775px;
+    font-size: 10px;
+}
+.gap11{
+    position: absolute;
+    top: 10px;
+    left: 1575px;
+}
+.rasm1{
+    position: absolute;
+    top: -400px;
+    left: 975px;
+}
+.yozuv{
+    position: absolute;
+    top: 75px;
+    left: 75px;
+    font-size: 40px;
+}
+.yozuv1{
+    position: absolute;
+    top: 165px;
+    left: 75px;
+    font-size: 20px;
+}
+.yozuv2{
+    position: absolute;
+    top: 195px;
+    left: 75px;
+    font-size: 20px;
+}
+.yozuv3{
+    position: absolute;
+    top: 220px;
+    left: 75px;
+    font-size: 20px;
+}
+.yozuv4{
+    position: absolute;
+    top: -325px;
+    left: 1050px;
+    font-size: 40px;
+}
+.yozuv10{
+    position: absolute;
+    top: -325px;
+    left: 1160px;
+    font-size: 40px;
+}
+.yozuv9{
+    position: absolute;
+    top: -325px;
+    left: 1240px;
+    font-size: 40px;
+}
+.yozuv5{
+    position: absolute;
+    top: -240px;
+    left: 1050px;
+    font-size: 20px;
+}
+.yozuv6{
+    position: absolute;
+    top: -240px;
+    left: 1135px;
+    font-size: 20px;
+}
+.yozuv7{
+    position: absolute;
+    top: -240px;
+    left: 1225px;
+    font-size: 20px;
+}
+.yozuv8{
+    position: absolute;
+    top: -215px;
+    left: 1050px;
+    font-size: 20px;
+}
+.yozuv11{
+    position: absolute;
+    top: -215px;
+    left: 1180px;
+    font-size: 20px;
+}
+.yozuv12{
+    position: absolute;
+    top: -215px;
+    left: 1240px;
+    font-size: 20px;
+}
+.yozuv13{
+    position: absolute;
+    top: -215px;
+    left: 1275px;
+    font-size: 20px;
+}
+.yozuv14{
+    position: absolute;
+    top: -190px;
+    left: 1050px;
+    font-size: 20px;
+}
+.yozuv15{
+    position: absolute;
+    top: -190px;
+    left: 1180px;
+    font-size: 20px;
+}
+.yozuv16{
+    position: absolute;
+    top: -190px;
+    left: 1255px;
+    font-size: 20px;
+}
+.yozuv17{
+    position: absolute;
+    top: -190px;
+    left: 1315px;
+    font-size: 20px;
+}
+.yozuv18{
+    position: absolute;
+    top: -165px;
+    left: 1050px;
+    font-size: 20px;
+}
+.col-md-3{
+    position: absolute;
+    top: 450px;
+    left: -950px;
+}
+.rasm2{
+    position: absolute;
+    top: 450px;
+    left: -470px;
+}
+.rasm3{
+    position: absolute;
+    top: 450px;
+    left: 10px;
+}
+.rasm4{
+    position: absolute;
+    top: 450px;
+    left: 500px;
+}
+.mikro{
+    position: absolute;
+    top: 980px;
+    right: 550px;
+}
+.mini{
+    position: absolute;
+    top: 980px;
+    left: -490px;
+}
+.go\'sh{
+    position: absolute;
+    top: 980px;
+    left: -20px;
+}
+.texnika{
+    position: absolute;
+    top: 980px;
+    left: 450px;
+}
+.rasm5{
+    position: absolute;
+    top: 1500px;
+    left: -1025px;
+}
+.rasm6{
+    position: absolute;
+    top: 1790px;
+    left: -1025px;
+}

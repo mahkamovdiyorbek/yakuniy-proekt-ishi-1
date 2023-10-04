@@ -1,0 +1,213 @@
+.haver1{
+    position: absolute;
+    top: 560px;
+    left: 350px;
+    width: 180px;
+    height: 65px;
+    border: 1px solid;
+    border-radius: 30px;
+    text-align: center;
+    padding: 16px 14px;
+}
+.haver1:hover{
+    color: green;
+}
+.haver2{
+    position: absolute;
+    top: 560px;
+    left: 880px;
+    width: 180px;
+    height: 65px;
+    border: 1px solid;
+    border-radius: 30px;
+    text-align: center;
+    padding: 16px 14px;
+}
+.haver2:hover{
+    color: green;
+}
+.haver3{
+    position: absolute;
+    top: 560px;
+    left: 1430px;
+    width: 180px;
+    height: 65px;
+    border: 1px solid;
+    border-radius: 30px;
+    text-align: center;
+    padding: 16px 14px;
+}
+.haver3:hover{
+    color: green;
+}
+.gap{
+    position: absolute;
+    top: 10px;
+    left: 500px;
+}
+.gap1{
+    position: absolute;
+    top: 10px;
+    left: 700px;
+}
+.gap2{
+    position: absolute;
+    top: 10px;
+    left: 800px;
+}
+.gap3{
+    position: absolute;
+    top: 10px;
+    left: 900px;
+}
+.gap4{
+    position: absolute;
+    top: 10px;
+    left: 970px;
+}
+.gap5{
+    position: absolute;
+    top: 10px;
+    left: 1100px;
+}
+.gap6{
+    position: absolute;
+    top: 10px;
+    left: 1200px;
+    color: #5badf5;
+}
+.gap7{
+    position: absolute;
+    top: 10px;
+    left: 1300px;
+    color: red;
+}
+.gap8{
+    position: absolute;
+    top: 10px;
+    left: 1400px;
+    color: blue;
+}
+.gap9{
+    position: absolute;
+    top: 10px;
+    left: 1500px;
+}
+.cod{
+    position: absolute;
+    top: 10px;
+    left: 1758px;
+}
+.gap10{
+    position: absolute;
+    top: 15px;
+    left: 1775px;
+    font-size: 10px;
+}
+.gap11{
+    position: absolute;
+    top: 10px;
+    left: 1575px;
+}
+.rasm1 {
+    position: absolute;
+    top: -400px;
+    left: 975px;
+}
+.sozlar{
+    position: absolute;
+    top: 780px;
+    left: 315px;
+    width: 800px;
+}
+.row1{
+    position: absolute;
+    top: 4100px;
+    left: 250px;
+    width: 100%;
+    display: block;
+}
+
+.col1{
+    width: 300px;
+    height: 350px;
+    display: block;
+    float: left;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(80,80,80,0.5);
+    -webkit-box-shadow: 0 0 10px rgba(80,80,80,0.5);
+    -moz-box-shadow: 0 0 10px rgba(80,80,80,0.5);
+    -o-box-shadow: 0 0 10px rgba(80,80,80,0.5);
+    -ms-box-shadow: 0 0 10px rgba(80,80,80,0.5);
+    margin: 50px 20px;
+    transition: all 0.5s ease-in-out;
+    padding: 16px 24px;
+}
+.col2{
+    width: 300px;
+    height: 350px;
+    display: block;
+    float: left;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(80,80,80,0.5);
+    -webkit-box-shadow: 0 0 10px rgba(80,80,80,0.5);
+    -moz-box-shadow: 0 0 10px rgba(80,80,80,0.5);
+    -o-box-shadow: 0 0 10px rgba(80,80,80,0.5);
+    -ms-box-shadow: 0 0 10px rgba(80,80,80,0.5);
+    margin: 50px 20px;
+    transition: all 0.5s ease-in-out;
+    padding: 16px 24px;
+}
+
+.col1:hover{
+    /*rotateX(45deg) rotateY(45deg)*/    /*translateX(100px) translateY(200px)*/
+    /*scaleX(0.5) scaleY(0.5)*/    /*skewX(45deg) skewX(45deg)*/
+    background-color: #ffffff;
+    color: black;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(80,80,80,0.8);
+    -webkit-box-shadow: 0 0 10px rgba(80,80,80,0.8);
+    transform: scaleY(1.1) scaleX(1.1);
+}
+.col2:hover{
+    /*rotateX(45deg) rotateY(45deg)*/    /*translateX(100px) translateY(200px)*/
+    /*scaleX(0.5) scaleY(0.5)*/    /*skewX(45deg) skewX(45deg)*/
+    background-color: #ffffff;
+    color: black;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(80,80,80,0.8);
+    -webkit-box-shadow: 0 0 10px rgba(80,80,80,0.8);
+    transform: scaleY(1.1) scaleX(1.1);
+}
+
+.row1 .col1:hover:nth-child(4){
+    margin: 0 20px;
+}
+
+.row1 .col1:hover:nth-child(5) {
+    margin: 0 20px;
+}
+
+.row1 .col1:hover:nth-child(6){
+    margin: 0 20px;
+}
+.row1 .col2:hover:nth-child(7){
+    margin: 0 20px;
+}
+.sana{
+    font-size: 15px;
+}
+a{
+    margin-top: 100px;
+    margin-left: 40px;
+    color: #53e253;
+    text-decoration: underline;
+}
+a:hover{
+    color: #04f104;
+}
+.rasm6{
+    position: absolute;
+    top: 4250px;
+    left: 2px;
+}

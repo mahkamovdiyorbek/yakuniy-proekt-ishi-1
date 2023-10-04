@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec8bf128-3b3f-4c1e-8c37-32e7ab23d655" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2TCP8I9b86lxsIlFBcEP92gJgmf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\It darslar\dasturlash\Bootstrap\Bootstrap praktika" />
+      <recent name="C:\Users\USER\Desktop\Diyorbek 26-guruh\It darslar\dasturlash\Bootstrap\Bootstrap praktika" />
+      <recent name="C:\Users\USER\Desktop\Diyorbek 26-guruh\It darslar\dasturlash\Bootstrap\Bootstrap praktika\_Bootstrap\js" />
+      <recent name="C:\Users\USER\Desktop\Diyorbek M\Bootstrap praktika\artel praktika" />
+      <recent name="C:\Users\USER\Desktop\Diyorbek M\Bootstrap\Bootstrap praktika\artel praktika" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec8bf128-3b3f-4c1e-8c37-32e7ab23d655" name="Default Changelist" comment="" />
+      <created>1690543928408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690543928408</updated>
+      <workItem from="1690543929455" duration="5194000" />
+      <workItem from="1690549420410" duration="7000" />
+      <workItem from="1690639777719" duration="55000" />
+      <workItem from="1690802597349" duration="5761000" />
+      <workItem from="1690808772255" duration="175000" />
+      <workItem from="1690889132828" duration="8000" />
+      <workItem from="1690971861858" duration="1670000" />
+      <workItem from="1690973564754" duration="505000" />
+      <workItem from="1691140626735" duration="1743000" />
+      <workItem from="1691142399547" duration="1781000" />
+      <workItem from="1691144214930" duration="805000" />
+      <workItem from="1691145055864" duration="353000" />
+      <workItem from="1691759326598" duration="1631000" />
+      <workItem from="1691760988662" duration="1774000" />
+      <workItem from="1691762796636" duration="1777000" />
+      <workItem from="1691764606329" duration="1361000" />
+      <workItem from="1692009326207" duration="1362000" />
+      <workItem from="1692018080160" duration="1763000" />
+      <workItem from="1692019875545" duration="1778000" />
+      <workItem from="1692021683768" duration="785000" />
+      <workItem from="1692181317055" duration="1684000" />
+      <workItem from="1692187733628" duration="3053000" />
+      <workItem from="1692191004253" duration="266000" />
+      <workItem from="1692191319715" duration="2000" />
+      <workItem from="1692356768783" duration="1676000" />
+      <workItem from="1692358850285" duration="3532000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1692362363592">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1692362363592" />
+    <state x="0" y="0" width="1407" height="1027" key="dock-window-1" timestamp="1692188323957">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="1407" height="1027" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1692188323957" />
+  </component>
+</project>
